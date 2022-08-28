@@ -17,7 +17,7 @@ section {
 }
 
 aside.card {
-    background-image: url(/bg.jpg);
+    background-image: url(/assets/bg.jpg);
     background-size: cover;
     width: 300px;
     height: 500px;
